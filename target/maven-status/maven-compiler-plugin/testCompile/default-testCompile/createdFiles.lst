@@ -1,0 +1,13 @@
+com\inetbanking\utillities\ReadConfig.class
+com\inetbanking\testcaes\TC_logintest_001.class
+com\inetbanking\testcaes\TC_LoginDDT_002.class
+com\inetbanking\testcaes\BaseClass.class
+com\inetbanking\utillities\Reporting.class
+com\intenbanking\testdata\package-info.class
+com\intbanking\pageobject\loginpage.class
+com\intbanking\pageobject\Addcustomerpage.class
+com\inetbanking\testcaes\Tc_AddcustomerTest_00.class
+com\intbanking\pageobject\package-info.class
+com\inetbanking\utillities\package-info.class
+com\inetbanking\testcaes\package-info.class
+com\inetbanking\utillities\XLUtillites.class
